@@ -42,10 +42,10 @@ We also analyzed a linear trend line for both death causes which is represented 
 Last thing to note that this graph provided insight on is that based on these trend lines, it is indicated that cancer will soon be the leading cause of death rather than heart disease. Based on the slopes that we analyzed, we can see that the decrease is much quicker for heart disease, which is why this projection is seen to be accurate. This compares to an article from the CDC stating, “Our projections indicate that cancer will soon become the leading cause of death in the United States if trends in risk of death from cancer and heart disease and population growth and aging continue” (CDC 2019) which aligns with our model. 
 
 
-Centers for Disease Control and Prevention. "Trends in Cancer and Heart Disease Death Rates Among 
-&nbsp; Adults Aged 45–64: United States, 1999–2017." Preventing Chronic Disease, vol. 16, 2019, https://www.cdc.gov/pcd/issues/2016/16_0211.htm.
+Centers for Disease Control and Prevention. "Trends in Cancer and Heart Disease Death Rates Among <br />
+&emsp;Adults Aged 45–64: United States,1999–2017." Preventing Chronic Disease, vol. 16, 2019,<br /> &emsp;https://www.cdc.gov/pcd/issues/2016/16_0211.htm.
 
-
+&emsp;
 
 ## Question 2: 
 
