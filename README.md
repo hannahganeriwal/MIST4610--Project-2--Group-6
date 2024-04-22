@@ -43,7 +43,7 @@ Last thing to note that this graph provided insight on is that based on these tr
 
 
 Centers for Disease Control and Prevention. "Trends in Cancer and Heart Disease Death Rates Among 
-  Adults Aged 45–64: United States, 1999–2017." Preventing Chronic Disease, vol. 16, 2019, https://www.cdc.gov/pcd/issues/2016/16_0211.htm.
+            Adults Aged 45–64: United States, 1999–2017." Preventing Chronic Disease, vol. 16, 2019, https://www.cdc.gov/pcd/issues/2016/16_0211.htm.
 
 
 
