@@ -21,8 +21,7 @@ Zachary Bowles [@zeb19037](https://github.com/zeb19037/MIST4610-Project-1--Group
 
 ## Describing your dataset and what data it contains:
 
-Where was it obtained, what are the dimensions of it (rows and columns), what are the various columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would understand the dataset.
-
+We were able to pull this dataset from the data.gov website titled “NCHS - Leading Causes of Death: United States.” This dataset shows recorded information about deaths for the 10 leading causes of death in all 50 states in the United States, starting in 1999 until 2017. Populations used for computing death rates after 2010 are postcensal estimates based on the 2010 census, estimated as of July 1, 2010. The 10 leading causes include Alzheimers, Strokes, CLRD (chronic lower respiratory disease), Diabetes, Heart Disease, Influenza and pneumonia, Suicide, Cancer, Kidney Disease, and unintentional injuries. Within this dataset, there are 10,868 rows, and each row represents a specific cause of death in a specific year for a specific state. This means that each row is a death statistic for a disease in a specific state for the year. For each case, the dataset recorded the year of death (as an INT), the ICD classified 113 Cause Name (VARCHAR), the commonly used Cause Name (VARCHAR), the state the death occurred in (VARCHAR), the Deaths total (INT), and the Age-Adjusted Death Rate (DECIMAL), which is the amount of deaths per 100,000 people of the population. This results in a table of 10,868 rows and 6 columns. This dataset is very effective in communicating the death rates for each state. It is very easy to see what causes of death are the most prevalent. It also allows us to look into how these death rates changed over time, and what sort of effect the geography of them had on these rates.
 
 ## Question 1: 
 
