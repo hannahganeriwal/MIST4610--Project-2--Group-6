@@ -47,6 +47,7 @@ Centers for Disease Control and Prevention. "Trends in Cancer and Heart Disease 
 &emsp;
 
 ## Question 2: 
+### Examine the proportional distribution of the 10 primary causes of death between the years 1999-2008 and 2008-2017 within the states of Georgia, South Carolina, and Alabama. Assess how the proportions of each cause of death changed within each state over the specified time frames.
 
 
 ### The manipulations applied to the data set as part of the analysis:
