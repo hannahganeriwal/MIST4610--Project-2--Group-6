@@ -5,7 +5,7 @@
 
 Group 6-
 
-Hannah Ganeriwal [@hannahganeriwal](https://github.com/hannahganeriwal/MIST4610-Project-2--Group-6)
+Hannah Ganeriwal [@hannahganeriwal](https://github.com/hannahganeriwal/MIST4610--Project-2--Group-6/tree/main)
 
 Luke Liu [@lukel04](https://github.com/lukel04/MIST4610-Project-1--Group-6)
 
