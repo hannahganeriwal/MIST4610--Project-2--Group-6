@@ -15,7 +15,7 @@ Sarah Kirk [@sarahkirk03](https://github.com/sarahkirk03)
 
 Wyatt Bewley [@wsb38150](https://github.com/wsb38150)
 
-Zachary Bowles [@zeb19037](https://github.com/zeb19037/MIST4610-Project-2--Group-6)
+Zachary Bowles [@zeb19037](https://github.com/zeb19037/MIST4610--Project-2--Group-6)
 
 
 
